@@ -1426,6 +1426,7 @@ body{
         width: 100%;
     }
     .flex{
+        margin: 10px;
         display: flex;
         flex-direction: column;
     }
